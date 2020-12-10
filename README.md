@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola Everyone, I'm Saurabh Kumar Sah... 👋
+- 🔭 I’m currently working on Full Stack Web Development. 
+- 🌱 I’m currently learning JavaScript framework. 
+- 👯 I’m looking to collaborate with NodeJs Expert. 
+- 🤔  I’m looking for help with Competitive Programming. 
+- 💬 Open to have discussion in learning new technology. 
+- 📫 Contact me: [@SaurabhKumarSah](https://www.linkedin.com/in/saurabh-kumar-sah-329002194/)
+- ⚡ Fun fact: I love sweets 😄
 
-<!--
-**s2423/s2423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>   C 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  C++ 
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  NodeJs
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>  npm
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  MongoDB
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=s2423&show_icons=truee&theme=radical)  
