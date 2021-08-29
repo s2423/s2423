@@ -14,6 +14,7 @@
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  C++ 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>  NodeJs
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>  npm
+<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>  python
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>  MongoDB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s2423&show_icons=truee&theme=radical)  
